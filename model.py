@@ -1,3 +1,27 @@
+'''
+Copyright (C) 2019  ts302_team
+Jian Sun: yearsj111110@163.com
+Chunmeng Zhong: 18801130730@163.com
+Hao Zhang: zh_94@outlook.com
+Hongyu Jia: jia_hy@outlook.com
+Xiao Huang: hx36w35@163.com
+Bin Lin: 15951872937@163.com
+Zaiyu Pang: pangzaiyu@163.com	
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+'''
+
 import os
 # ---- just for mem -------
 #import tracemalloc
