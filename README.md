@@ -16,3 +16,6 @@ Key Laboratory for Information System Security, School of Software, Tsinghua Uni
 
 ## How to use
 To successfully run the code, please follow the instructions on https://codalab.lri.fr/competitions/559#learn_the_details-get-started. You need to download the code skeleton and datasets from this website, and copy the source code in this repository into the right folder. Then you can run the whole project to produce the prediction results. 
+
+## Update July, 2020
+It seems the data in the official website has expired. You can find data here: https://cloud.tsinghua.edu.cn/f/87b3f36489b04194914d (Just ignore the codes inside.)
